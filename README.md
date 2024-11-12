@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luv Bhardwaj</h1>
 <h3 align="center">Passionate Full stack Developer</h3>
-<img align = "right" alt="coding" width="300" height="280" src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTM0aXBzaWs2dTloYjVxYjhja21pbWYxdDNocGg0MDBqcXBlM2k5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
+<img align = "right" alt="coding" width="300" height="250" src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTM0aXBzaWs2dTloYjVxYjhja21pbWYxdDNocGg0MDBqcXBlM2k5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luv-developer&label=Profile%20views&color=0e75b6&style=flat" alt="luv-developer" /> </p>
 
 - 🔭 I’m currently working on **e-commerce website**
